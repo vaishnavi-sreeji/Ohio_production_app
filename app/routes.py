@@ -22,7 +22,7 @@ def get_data():
     
 @api_create .route('/', methods=['GET'])
 def test():
-    return "congratz"
+    return "Welcome to Ohio Production Application"
 
 
 
