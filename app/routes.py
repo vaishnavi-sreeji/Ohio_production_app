@@ -14,7 +14,7 @@ def get_data():
     data = get_annual_data(well_number)
     print("data",data)
     if data:
-        print("jsonified data",jsonify(data))
+        # print("jsonified data",jsonify(data))
         return jsonify(data)
     else:
         return jsonify({"error": "Well number not found"}), 404
