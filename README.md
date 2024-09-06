@@ -12,7 +12,7 @@ This Ohio_Production_app is a Flask-based API to provide annual production data 
 
 1. Clone the repository:
     ```
-    git clone <repository-url>
+    git clone https://github.com/vaishnavi-sreeji/Ohio_production_app.git
     cd project
     ```
 
