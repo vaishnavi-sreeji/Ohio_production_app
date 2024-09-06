@@ -18,7 +18,7 @@ This Ohio_Production_app is a Flask-based API to provide annual production data 
 
 2. Create and activate a virtual environment:
     ```
-    python3 -m venv venv
+    py -m venv venv
     source venv/bin/activate
     ```
 
